@@ -11,6 +11,6 @@ Description: Simple numeric coordinate conversion between latitude longitude and
 	It is not meant to be a replacement for the rgdal package functions, but only provide the simplest way to convert between
 	geographic and projected coordinates without any other dependencies.
 License: GPL (>= 2)
-URL: http://www.r-project.org, http://www.another.url
-BugReports: http://pkgname.bugtracker.url
+URL: https://github.com/miguel-porto/R-utmlatlong
+BugReports: https://github.com/miguel-porto/R-utmlatlong/issues
 
