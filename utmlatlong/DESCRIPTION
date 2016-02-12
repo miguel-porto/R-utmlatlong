@@ -1,0 +1,16 @@
+Package: utmlatlong
+Version: 1.0
+Date: 2016-02-12
+Title: Simple coordinate conversion between geographic (latitude longitude) and projected (UTM) coordinates.
+Authors@R: c(person("Miguel", "Porto", role = c("aut", "cre"), email = "mpbertolo@gmail.com"))
+Author: Miguel Porto
+Maintainer: Miguel Porto <mpbertolo@gmail.com>
+Depends:
+Suggests: 
+Description: Simple numeric coordinate conversion between latitude longitude and UTM coordinates with no dependencies.
+	It is not meant to be a replacement for the rgdal package functions, but only provide the simplest way to convert between
+	geographic and projected coordinates without any other dependencies.
+License: GPL (>= 2)
+URL: http://www.r-project.org, http://www.another.url
+BugReports: http://pkgname.bugtracker.url
+
